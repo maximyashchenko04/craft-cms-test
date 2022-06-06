@@ -1,0 +1,22 @@
+dateModified: 1654511890
+email:
+  fromEmail: maximyashchenko04@gmail.com
+  fromName: 'Test CraftCMS'
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    8f64c050-0597-407c-afc5-7818cfcadd22: 'Test CraftCMS' # Test CraftCMS
+    bea10266-6941-46b6-a46e-34dc5f7a504e: Common # Common
+    f5e3526b-5454-4900-bff2-6615c548b1a9: 'Test CraftCMS' # Test CraftCMS
+system:
+  edition: solo
+  live: true
+  name: 'Test CraftCMS'
+  schemaVersion: 3.7.33
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
